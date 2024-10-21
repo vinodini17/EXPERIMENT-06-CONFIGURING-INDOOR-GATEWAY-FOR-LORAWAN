@@ -84,9 +84,13 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![WhatsApp Image 2024-10-14 at 09 11 11_54b00fc3](https://github.com/user-attachments/assets/d1c2a5db-c733-4150-8918-6c32412b2b99)
+![WhatsApp Image 2024-10-14 at 09 11 13_45e7328c](https://github.com/user-attachments/assets/5425ed76-458c-4ccf-8744-7ff696cb0dfd)
+![WhatsApp Image 2024-10-14 at 09 11 14_260f915a](https://github.com/user-attachments/assets/ebd31e0f-ef3a-4a71-8f0b-7942ee4faa85)
+![WhatsApp Image 2024-10-14 at 09 11 46_047a93a6](https://github.com/user-attachments/assets/58f9f9eb-620a-4a78-ad95-a768a255e2ee)
 
 
 
 ## Results: 
 
-
+Dragino isconfigured successfully.
